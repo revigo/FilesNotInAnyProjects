@@ -1,0 +1,5 @@
+1.foxit reader 
+    网址：http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/
+2.microsoft 系列
+    百度搜索：MSDN我告诉你
+    网址：https://msdn.itellyou.cn/
